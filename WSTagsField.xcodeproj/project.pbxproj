@@ -119,9 +119,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D78CA0031D2A6AFD004F4BFF /* Build configuration list for PBXNativeTarget "WSTagsField" */;
 			buildPhases = (
+				D78C9FEC1D2A6AFD004F4BFF /* Headers */,
 				D78C9FEA1D2A6AFD004F4BFF /* Sources */,
 				D78C9FEB1D2A6AFD004F4BFF /* Frameworks */,
-				D78C9FEC1D2A6AFD004F4BFF /* Headers */,
 				D78C9FED1D2A6AFD004F4BFF /* Resources */,
 				125AC6ED1F14D41100137101 /* Swift Lint */,
 			);
